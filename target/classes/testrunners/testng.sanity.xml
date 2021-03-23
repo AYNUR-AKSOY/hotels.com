@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Test suite">
+  <test verbose="2" name="ISpeakBetter2021 test">
+    <classes>
+      <class name="IspeakBetter2021.qa.tests.LoginPageTest"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

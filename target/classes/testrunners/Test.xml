@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Test suite">
+  <test verbose="2" name="Hotels.com test">
+
+    <classes>
+      <class name="Hotelscom_aynur.qa.tests.HomePageTest"/>
+        <class name="Hotelscom_aynur.qa.tests.Star_3_HotelsTest"/>
+          <class name="Hotelscom_aynur.qa.tests.Star_4_HotelsTest"/>
+            <class name="Hotelscom_aynur.qa.tests.Star_5_HotelsTest"/>
+    </classes>
+  </test>
+</suite> 

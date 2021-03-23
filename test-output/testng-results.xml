@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-07T17:06:32 EST" name="Default suite" finished-at="2021-03-07T17:07:45 EST" duration-ms="73514">
+    <groups>
+    </groups>
+    <test started-at="2021-03-07T17:06:32 EST" name="Default test" finished-at="2021-03-07T17:07:45 EST" duration-ms="73514">
+      <class name="Hotelscom_aynur.qa.tests.Star_5_HotelsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Hotelscom_aynur.qa.tests.Star_5_HotelsTest@29215f06]" started-at="2021-03-07T17:06:32 EST" name="setUp" finished-at="2021-03-07T17:06:35 EST" duration-ms="3831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Citycenterverify()[pri:0, instance:Hotelscom_aynur.qa.tests.Star_5_HotelsTest@29215f06]" started-at="2021-03-07T17:06:35 EST" name="Citycenterverify" finished-at="2021-03-07T17:07:45 EST" duration-ms="69297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Citycenterverify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Hotelscom_aynur.qa.tests.Star_5_HotelsTest@29215f06]" started-at="2021-03-07T17:07:45 EST" name="tearDown" finished-at="2021-03-07T17:07:45 EST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Hotelscom_aynur.qa.tests.Star_5_HotelsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
